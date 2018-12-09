@@ -1,0 +1,285 @@
+{
+  "basics": {
+    "name": "Silvia Molina Cantarero",
+    "label": "Fisioterapeuta y Quiromasajista",
+    "picture": "https://lh3.googleusercontent.com/CxpGDInwv7-x5f1Yv1xX58G4OMXwOXdbf8yxmce6K2P1Ae7BZDb160MhCi1CCVDwcYdOblwGN3cu=w1597-h1600-rw-no",
+    "email": "silviamc89@gmail.com",
+    "phone": "(+34)669802453",
+    "website": "https://silviamc.github.io/",
+    "summary": "Soy Silvia Molina, fisioterapeuta y masajista. Estoy especializada en diferentes   técnicas manuales dentro de la rehabilitación músculo-esquelética. Me considero una persona observadora, atenta y sensible",
+    "location": {
+      "address": "C/ Concili de Trento 47, esc. izq. 4º 2ª. 08018. Barcelona - España",
+      "postalCode": "BCN 08018",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Cataluña"
+    },
+    "profiles": [
+      {
+        "network": "linkedIn",
+        "username": "smolina",
+        "url": "https://www.linkedin.com/in/silvia-molina-a78a0a60/"
+      },
+      {
+        "network": "facebook",
+        "username": "smolina",
+        "url": "https://www.facebook.com/silvia.molina.5205"
+      },
+      {
+        "network": "instagram",
+        "username": "smcdance",
+        "url": "https://www.instagram.com/smcdance"
+      },
+      {
+        "network": "twitter",
+        "username": "smolina",
+        "url": "https://twitter.com/silviamc89"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Alegría Spa. Hotel Catalonia Atenas",
+      "position": "Masajista",
+      "startDate": "2017-08-01",
+      "summary": "Equipo profesional formado en la mayoría por terapeutas tituladas en Fisioterapia.",
+      "highlights": [
+        "Realización de terapias manuales y tratamientos faciales",
+        "Realización de tareas comerciales y administrativas",
+        "Gestión de spa"
+      ]
+    },
+    {
+      "company": "Hotel Alma Barcelona",
+      "position": "Masajista",
+      "startDate": "2017-09-01",
+      "highlights": [
+        "Masajista de refuerzo"
+      ]
+    },
+    {
+      "company": "Mayan Luxury Spa. Hotel Palace",
+      "position": "Masajista",
+      "website": "https://www.hotelpalacebarcelona.com/en/mayan-luxury-spa-16/",
+      "startDate": "2016-05-01",
+      "endDate": "2016-07-01",
+      "summary": "Inspirado en la cultura maya, un lugar donde la mente, el cuerpo y el alma se vuelven uno. Las tradiciones de una generación a otra se aplican en Mayan Luxury Spa en el exclusivo Hotel El Palace ***** GL en Barcelona",
+      "highlights": [
+        "Masajista de refuerzo"
+      ]
+    },
+    {
+      "company": "Centro de terapias Rosa Sauras Sancho",
+      "position": "masajista",
+      "startDate": "2015-10-01",
+      "endDate": "2016-04-01",
+      "summary": "Centro de terapias alternativas",
+      "highlights": [
+        "Realización de tratamientos (masaje, terapia manual, quiropraxia, estiramientos musculares, electroterapia…) para diversas patologías: cervicalgias, lumbalgias, ciáticas, hernias discales, tendinitis, fibromialgia, estreñimiento, cefaleas tensionales…"
+      ]
+    },
+    {
+      "company": " Residencial Mas Piteu",
+      "position": "Fisioterapeuta",
+      "startDate": "2015-10-01",
+      "endDate": "2016-04-01",
+      "summary": "Centro residencial. Fisioterapia en Geriatría",
+      "highlights": [
+        "Utilización de técnicas dirigidas a la prevención y al tratamiento de las lesiones y las enfermedades del envejecimiento",
+        "Rehabilitación enfocada a disminuir el dolor, a mejorar la movilidad, el equilibrio y la autonomía de la persona mayor"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "FisioCIMA",
+      "position": "Prácticas universitarias. Fisioterapia en Traumatologia y Reumatologia 110h",
+      "startDate": "2011-03-01",
+      "endDate": "2011-04-01"
+    },
+    {
+      "organization": "Centre Mèdic Atlántida",
+      "position": "Prácticas universitarias. Fisioterapia en Traumatología 110h",
+      "startDate": "2010-10-01",
+      "endDate": "2010-11-01"
+    },
+    {
+      "organization": "Revitass-Clínica Ignasi Gómez",
+      "position": "Prácticas universitarias. Fisioterapia en Traumatología 110h",
+      "startDate": "2010-04-01",
+      "endDate": "2010-05-01"
+    },
+    {
+      "organization": "Centro de fisioterapia Toni Bové",
+      "position": "Prácticas universitarias. Fisioterapia en Traumatología 110h",
+      "startDate": "2009-11-01",
+      "endDate": "2009-12-01"
+    },
+    {
+      "organization": "Centro Forum",
+      "position": "Prácticas universitarias. Fisioterapia en Geriatría 80h",
+      "startDate": "2009-04-01",
+      "endDate": "2009-05-01"
+    },
+    {
+      "organization": "Centro sociosanitario. La Alianza",
+      "position": "Prácticas universitarias. Fisioterapia en Geriatría 80h",
+      "startDate": "2009-03-01",
+      "endDate": "2009-04-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Escuela Quirotema",
+      "area": "Escuela de Quiromasaje y Terapias Manuales",
+      "studyType": "Quiropractica",
+      "startDate": "2016-01-01",
+      "summary": "Práctica de movilizaciones y manipulaciones de la columna vertebral"
+    },
+    {
+      "institution": "Escuela de Masaje Manual del Dr. Sagrera Ferrandiz",
+      "area": "Escuela de Quiromasaje y Terapias Manuales",
+      "studyType": "Quiromasajista"
+    },
+    {
+      "institution": "Universidad Ramon Llull",
+      "area": "Facultad de Ciencias de la Salud Blanquerna",
+      "studyType": "Diplomada en Fisioterapia",
+      "startDate": "2007-09-01",
+      "endDate": "2012-07-01"
+    },
+    {
+      "institution": "Centro E.T.P.C (Escuela Técnica Profesional del Clot)",
+      "studyType": "Bachillerato de Ciencias de la Salud",
+      "startDate": "2005-09-01",
+      "endDate": "2007-07-01"
+    },
+    {
+      "institution": "Centro E.T.P.C (Escuela Técnica Profesional del Clot)",
+      "studyType": "ESO",
+      "startDate": "2001-09-01",
+      "endDate": "2005-07-01"
+    }
+  ],
+  "courses": [
+    {
+      "institution": "Fisioformacion",
+      "area": "Fisioterapia",
+      "studyType": "Curso de Anatomía Palpatoria 25h",
+      "startDate": "2017"
+    },
+    {
+      "institution": "Fisiofocus",
+      "area": "Fisioterapia",
+      "studyType": "Curso de Neurodinámica: Movilizaciones del SNP 20h",
+      "startDate": "2016"
+    },
+    {
+      "institution": "UIC",
+      "area": "Fisioterapia",
+      "studyType": "Curso de Especialización en Drenaje Linfático Manual 45h",
+      "startDate": "2015"
+    },
+    {
+      "institution": "Fisioformacion",
+      "area": "Fisioterapia",
+      "studyType": "Curso de Pilates suelo 15h",
+      "startDate": "2014"
+    },
+    {
+      "institution": "ITNM (Instituto de Terapias Neuromiofasciales)",
+      "area": "Fisioterapia",
+      "studyType": "Curso de KinesioTaping 16h",
+      "startDate": "2013"
+    },
+    {
+      "institution": "escoles universitàries gimbernat i Tomàs Cerdà",
+      "area": "Fisioterapia",
+      "studyType": "Curso de Valoración y Tratamiento fascial (osteopatía visceral y craneosacral) 80 h",
+      "startDate": "2013"
+    },
+    {
+      "institution": "Tecar",
+      "area": "Fisioterapia",
+      "studyType": "Asistencia al Seminario de introducción a la Tecarterapia",
+      "startDate": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Cualidades personales",
+      "description": [
+        "Cualidades personales"
+      ],
+      "skillDetails": [
+        {
+          "name": "Cualidades personales",
+          "level": "100",
+          "keywords": [
+            "Responsabilidad",
+            "Serenidad",
+            "Sensibilidad",
+            "Empatía",
+            "Presencia"
+          ]
+        }
+      ],
+      "name": "Cualidades personales",
+      "level": "Master",
+      "keywords": [
+        "Responsabilidad",
+        "Serenidad",
+        "Sensibilidad",
+        "Empatía",
+        "Presencia"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Catalán",
+      "fluency": "Lengua nativa"
+    },
+    {
+      "language": "Español",
+      "fluency": "Lengua nativa"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermedio"
+    },
+    {
+      "language": "French",
+      "fluency": "Independiente B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Salud cuerpo-mente",
+      "keywords": [
+        "Yoga",
+        "Pilates",
+        "Entrenamiento funcional",
+        "Deporte"
+      ]
+    },
+    {
+      "name": "Danza",
+      "keywords": [
+        "Salsa",
+        "Bachata",
+        "Lindy hop",
+        "Tango",
+        "Contemporaneo"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Javier Cabrera",
+      "reference": "Silvia, tiene fuerzas para lograr sus objetivos",
+      "position": "Friend",
+      "company": ""
+    }
+  ]
+}
